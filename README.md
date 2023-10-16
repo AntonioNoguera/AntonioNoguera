@@ -1,6 +1,6 @@
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=00000000&theme=date_night )
-<p align="center">
 
+<p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=00000000&theme=date_night )
 
  
   <a href="https://git.io/streak-stats">

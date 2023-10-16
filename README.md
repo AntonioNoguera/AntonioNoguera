@@ -1,4 +1,4 @@
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioNoguera&bg_color=00000000&theme=date_night )
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioNoguera&layout=compact&bg_color=00000000&theme=date_night )
 
 <p align="center">
  

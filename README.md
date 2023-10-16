@@ -1,4 +1,4 @@
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=00000000&text_color=b5a884)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=00000000&text_color=84b596)
 <p align="center">
 
 

@@ -2,6 +2,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioNoguera&layout=compact&bg_color=00000000&theme=date_night&card_width=500px" alt="Top Langs">
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 
 <p align="center">
  

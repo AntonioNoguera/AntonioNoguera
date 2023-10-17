@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioNoguera&layout=compact&bg_color=00000000&theme=date_night&card_width=500px&langs_count=6" alt="Top Langs">
-</p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
-
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioNoguera&layout=compact&bg_color=00000000&theme=date_night&card_width=500px&langs_count=8" alt="Top Langs">
+</p> 
 <p align="center">
  
 

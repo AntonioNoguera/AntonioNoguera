@@ -21,3 +21,5 @@ I am currently exploring the branch of AI, and how it could be implemented to da
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AntonioNoguera&theme=radical&hide_border=true&locale=es">
 </p>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=" alt="GitHub Streak" /></a>

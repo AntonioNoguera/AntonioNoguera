@@ -5,6 +5,8 @@ Definitely the branch that interests me the most is Back - End development, sinc
 For this reason, I am very interested in projects in which large amounts of information are generated and used at the same tiem.
 
 I am currently exploring the branch of AI, and how it could be implemented to data manipulation projects.
+
+Worked in almost all the fields of software Engeneering
   
   Studies:
   

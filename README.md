@@ -54,11 +54,6 @@ Soy un desarrollador móvil junior con casi 4 años de experiencia en Ingenierí
 - 💼 Trabajando en proyectos de desarrollo móvil y orientando a nuevos desarrolladores en el equipo.
 - 🌱 Explorando nuevas tecnologías para mejorar la experiencia de usuario. 
 
-## 📫 Contacto
-- [LinkedIn](https://linkedin.com/in/tu-perfil)
-- [Twitter](https://twitter.com/tu-perfil)
-- [Correo](mailto:tuemail@gmail.com)
-
 <table align="center">
   <tr>
     <td>

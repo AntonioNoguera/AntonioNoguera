@@ -1,6 +1,4 @@
-# 👋 ¡Hola! Soy Michael Noguera
-
-Soy un desarrollador móvil junior con casi 4 años de experiencia en Ingeniería de Software. Actualmente estoy enfocado en el desarrollo de aplicaciones móviles utilizando Android y Flutter. Tengo experiencia colaborando con equipos de desarrollo para implementar soluciones eficientes y escalables. Además, oriento a nuevos desarrolladores para que se integren mejor a los proyectos y el equipo.
+# 👋 ¡Hola!
 
 ## 🚀 Tecnologías y Herramientas
 

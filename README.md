@@ -1,6 +1,5 @@
-# 👋 ¡Hola!
-
-## 🚀 Tecnologías y Herramientas
+# 👋 Eyo, Mike por acá!
+ 
 
 ### 🖥️ Lenguajes de Programación
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
@@ -49,7 +48,7 @@
 
 ## 📝 Sobre mí
 - 🎓 Actualmente estudiando Ingeniería de Software.
-- 💼 Trabajando en proyectos de desarrollo móvil y orientando a nuevos desarrolladores en el equipo.
+- 💼 Trabajando en proyectos de desarrollo móvil multiplataforma.
 - 🌱 Explorando nuevas tecnologías para mejorar la experiencia de usuario. 
 
 <table align="center">

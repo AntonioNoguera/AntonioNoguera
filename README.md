@@ -1,7 +1,7 @@
 ## Web / Mobile Dev 
 
-#### Técnico en Programación 2017/2020
-#### Ingeniería de Software
+#### Técnico en Programación 2017 / 2020
+#### Ingeniería de Software 2020 / 2025
  
 ### 🖥️ Lenguajes de Programación
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)

@@ -1,6 +1,8 @@
-# 👋 Eyo, Mike por acá!
- 
+## Web / Mobile Dev 
 
+#### Técnico en Programación 2017/2020
+#### Ingeniería de Software
+ 
 ### 🖥️ Lenguajes de Programación
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
@@ -49,7 +51,7 @@
 ## 📝 Sobre mí
 - 🎓 Actualmente estudiando Ingeniería de Software.
 - 💼 Trabajando en proyectos de desarrollo móvil multiplataforma.
-- 🌱 Explorando nuevas tecnologías para mejorar la experiencia de usuario. 
+- 🌱 Profundizando en el desarrollo nativo de android. 
 
 <table align="center">
   <tr>
@@ -63,5 +65,3 @@
     </td>
   </tr>
 </table>
-
-

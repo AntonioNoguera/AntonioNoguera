@@ -1,4 +1,4 @@
-## Web / Mobile Dev 
+# Web / Mobile Dev 
 
 #### Técnico en Programación 2017 / 2020
 #### Ingeniería de Software 2020 / 2025

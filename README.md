@@ -52,7 +52,7 @@
 - 🎓 Actualmente estudiando Ingeniería de Software.
 - 💼 Trabajando en proyectos de desarrollo móvil multiplataforma.
 - 🌱 Profundizando en el desarrollo nativo de android. 
-- Incursionando en el desarrollo de Dart - Flutter
+- Incursionando en el desarrollo de Dart - Flutter, y Swift UI
 <table align="center">
   <tr>
     <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioNoguera&layout=compact&bg_color=00000000&theme=date_night&card_width=500px&langs_count=8&locale=es&hide=CSS" alt="Top Langs">

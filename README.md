@@ -18,7 +18,7 @@
 ### 🔍 Tecnologías en exploración
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
 [![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)
-[[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 
 ### 📱 Desarrollo Móvil
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#) 

@@ -41,9 +41,8 @@
 ### ☁️ Servicios en la Nube
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#) 
 
-### 📦 Control de Versiones
- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 📦 Control de Versiones 
+ ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)]
 
 ### 🛠️ Herramientas y Entornos de Desarrollo
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)

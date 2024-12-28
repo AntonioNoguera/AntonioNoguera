@@ -1,64 +1,111 @@
-# **Michael Noguera (Mike)**  
-_Técnico en Programación (2017 - 2020) | Estudiante de Ingeniería de Software (2020 - 2025)_  
-💼 **Desarrollador Web / Mobile**  
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Michael Noguera (Mike) - Perfil</title>
+</head>
+<body>
+  <h1>Michael Noguera (Mike)</h1>
+  <p><em>Técnico en Programación (2017 - 2020) | Estudiante de Ingeniería de Software (2020 - 2025)</em></p>
+  <p>💼 <strong>Desarrollador Web / Mobile</strong></p>
 
----
+ <h2>📊 <strong>Estadísticas de GitHub</strong></h2>
+  <div style="text-align: center;">
+    <table width="70%">
+      <tr>
+        <td>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioNoguera&layout=compact&bg_color=00000000&theme=radical&card_width=500px&langs_count=8&locale=es&hide=CSS" alt="Top Langs">
+        </td>
+        <td>
+          <a href="https://git.io/streak-stats">
+            <img src="https://streak-stats.demolab.com?user=AntonioNoguera&theme=radical&hide_border=true" alt="GitHub Streak">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
+  <hr>
 
-## 🌐 **Tecnologías en Exploración**  
-| Flutter | Swift | .NET |
-|---------|-------|------|
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff) | ![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff) |
+  <h2>🌐 <strong>Tecnologías en Exploración</strong></h2>
+  <div style="text-align: center;">
+    <table width="100%">
+      <tr>
+        <th>Flutter</th>
+        <th>Swift</th>
+        <th>.NET</th>
+      </tr>
+      <tr>
+        <td><img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff" alt="Flutter"></td>
+        <td><img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white" alt="Swift"></td>
+        <td><img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" alt=".NET"></td>
+      </tr>
+    </table>
+  </div>
 
----
+  <hr>
 
-## 🖥️ **Lenguajes de Programación**  
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)  
+  <h2>🖥️ <strong>Lenguajes de Programación</strong></h2>
+  <p>
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" alt="Kotlin">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python">
+    <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white" alt="Dart">
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white" alt="PHP">
+  </p>
 
----
+  <hr>
 
-## 🚀 **Tecnologías que Domino**  
+  <h2>🌐 <strong>Desarrollo Web, Bases de Datos y Servicios en la Nube</strong></h2>
+  <div style="text-align: center;">
+    <table width="100%">
+      <tr>
+        <th>Bases de Datos</th>
+        <th>Servicios en la Nube</th>
+        <th>Desarrollo Web</th>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL"><br>
+          <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" alt="SQLite"><br>
+          <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" alt="Firebase">
+        </td>
+        <td>
+          <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" alt="Firebase">
+        </td>
+        <td>
+          <img src="https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff" alt="Electron"><br>
+          <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React"><br>
+          <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" alt="Bootstrap">
+        </td>
+      </tr>
+    </table>
+  </div>
 
-### **Desarrollo Móvil**  
-[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)  
+  <hr>
 
----
+  <h2>🛠️ <strong>Herramientas y Entornos de Desarrollo</strong></h2>
+  <div style="text-align: center;">
+    <table width="100%">
+      <tr>
+        <th>Eclipse</th>
+        <th>IntelliJ IDEA</th>
+        <th>NetBeans IDE</th>
+        <th>Visual Studio Code</th>
+      </tr>
+      <tr>
+        <td><img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" alt="Eclipse"></td>
+        <td><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"></td>
+        <td><img src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white" alt="NetBeans IDE"></td>
+        <td><img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" alt="Visual Studio Code"></td>
+      </tr>
+    </table>
+  </div>
 
-## 🌐 **Desarrollo Web, Bases de Datos y Servicios en la Nube**  
-| Bases de Datos | Servicios en la Nube | Desarrollo Web |
-|----------------|-----------------------|----------------|
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)<br>![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)<br>![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white) | ![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff)<br>![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)<br>![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff) |
-
----
-
-## 🛠️ **Herramientas y Entornos de Desarrollo**  
-| Eclipse | IntelliJ IDEA | NetBeans IDE | Visual Studio Code |
-|---------|---------------|--------------|---------------------|
-| ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white) | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white) | ![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white) | ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) |
-
----
-
-## 📦 **Control de Versiones**  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)  
-
----
-
-## 📋 **Sobre Mí**  
-🎓 Estudiante de Ingeniería de Software (2020-2025).  
-💼 Actualmente trabajando en proyectos de desarrollo móvil multiplataforma.  
-🌱 Enfocado en el desarrollo nativo para Android.  
-🚀 Incursionando en Flutter y SwiftUI.  
----
-
-## 📊 **Estadísticas de GitHub**  
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioNoguera&layout=compact&bg_color=00000000&theme=radical&card_width=500px&langs_count=8&locale=es&hide=CSS" alt="Top Langs">
-    </td>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=AntonioNoguera&theme=radical&hide_border=true" alt="GitHub Streak">
-      </a>
-    </td>
-  </tr>
-</table>
+  <hr>
+</body>
+</html>

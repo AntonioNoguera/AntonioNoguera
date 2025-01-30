@@ -36,41 +36,27 @@
   <hr>
 
   <h2>🌐 <strong>Tecnologías en Exploración</strong></h2>
-  <div class="text-center">
-    <!-- Otra tabla con estilo de Bootstrap -->
-    <div class="table-responsive">
-      <table class="table table-striped">
-        <thead>
-          <tr>
-            <th>Flutter</th>
-            <th>Swift</th>
-            <th>.NET</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff" alt="Flutter"></td>
-            <td><img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white" alt="Swift"></td>
-            <td><img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" alt=".NET"></td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
+ <p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" alt=".NET">
+ </p> 
+      
 
   <hr>
 
   <h2>🖥️ <strong>Lenguajes de Programación</strong></h2>
-  <p>
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java">
+  <p> 
+   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" alt="Kotlin">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript"> 
+   <img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white" alt="Swift">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript">
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python">
     <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white" alt="Dart">
     <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML">
     <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white" alt="PHP">
+
+   
   </p>
 
   <hr>

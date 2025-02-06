@@ -4,12 +4,10 @@
 
   <h1>Michael Noguera (Mike)</h1>
   <p><em>Técnico en Programación (2017 - 2020) | Estudiante de Ingeniería de Software (2020 - 2025)</em></p>
-  <p>💼 <strong>Desarrollador Web / Mobile</strong></p>
+  <p>💼 <strong>Desarrollador Mobile / Web</strong></p>
 
   <h2>📊 <strong>Estadísticas de GitHub</strong></h2>
-
-  <!-- Ejemplo de uso de tablas de Bootstrap -->
-  <!-- "table", "table-borderless", "table-hover", etc. Se pueden combinar según necesites. -->
+ 
   <div class="text-center">
     <div class="table-responsive">
       <table class="table table-borderless">
@@ -36,34 +34,30 @@
   <hr>
 
   <h2>🌐 <strong>Tecnologías en Exploración</strong></h2>
- <p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" alt=".NET">
- </p> 
+  <p>
+    <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" alt=".NET">
+  </p> 
       
-
   <hr>
 
   <h2>🖥️ <strong>Lenguajes de Programación</strong></h2>
   <p> 
-   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" alt="Kotlin">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript"> 
-   <img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white" alt="Swift">
+    <img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white" alt="Swift">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript">
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python">
     <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white" alt="Dart">
     <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML">
     <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white" alt="PHP">
-
-   
   </p>
 
   <hr>
 
   <h2>🌐 <strong>Desarrollo Web, Bases de Datos y Servicios en la Nube</strong></h2>
-  <div class="text-center">
-    <!-- Otra tabla con estilo de Bootstrap -->
+  <div class="text-center"> 
     <div class="table-responsive">
       <table class="table table-hover">
         <thead>
@@ -97,8 +91,7 @@
   <hr>
 
   <h2>🛠️ <strong>Herramientas y Entornos de Desarrollo</strong></h2>
-  <div class="text-center">
-    <!-- Otra tabla con estilo de Bootstrap -->
+  <div class="text-center"> 
     <div class="table-responsive">
       <table class="table table-bordered">
         <thead>
@@ -122,7 +115,9 @@
   </div>
 
   <hr>
- 
+
+  <h2>😄 <strong>Dato Curioso</strong></h2>
+  <p>Cuando toque Java por primera vez en 2018 se me hizo tan incómodo que pensé en no volver a tocar android nunca más, hoy en día es mi tecnología mejor dominada.</p>
 
 </body>
 </html>

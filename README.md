@@ -115,9 +115,6 @@
   </div>
 
   <hr>
-
-  <h2>😄 <strong>Dato Curioso</strong></h2>
-  <p>Cuando toque Java por primera vez en 2018 se me hizo tan incómodo que pensé en no volver a tocar android nunca más, hoy en día es mi tecnología mejor dominada.</p>
-
+ 
 </body>
 </html>

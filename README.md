@@ -4,7 +4,7 @@
 
   <h1>Michael Noguera (Mike)</h1>
   <p><em>Técnico en Programación (2017 - 2020) | Estudiante de Ingeniería de Software (2020 - 2025)</em></p>
-  <p>💼 <strong>Desarrollador Mobile / Web</strong></p>
+  <p>💼 <strong>Desarrollador Mobile Jr</strong></p>
 
   <h2>📊 <strong>Estadísticas de GitHub</strong></h2>
  
@@ -113,6 +113,10 @@
       </table>
     </div>
   </div>
+
+  
+
+  <h2>🛠️ <strong>Hitos Relevantes</strong></h2>
 
   <hr>
  

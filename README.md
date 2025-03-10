@@ -4,7 +4,11 @@
 
   <h1>Michael Noguera (Mike)</h1>
   <p><em>Técnico en Programación (2017 - 2020) | Estudiante de Ingeniería de Software (2020 - 2025)</em></p>
-  <p>💼 <strong>Desarrollador Mobile Jr</strong></p>
+  <p style="display: flex; align-items: center;">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTywf51MRLfnOfAsgSAhAVGw_iLGGEBm-sGxA&s" alt="Imagen" style="height: 1em; width: auto; margin-right: 8px;">
+     <strong>Desarrollador Mobile Jr</strong>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTywf51MRLfnOfAsgSAhAVGw_iLGGEBm-sGxA&s" alt="Imagen" style="height: 1em; width: auto; margin-right: 8px;">
+ </p>
 
   <h2>📊 <strong>Estadísticas de GitHub</strong></h2>
  

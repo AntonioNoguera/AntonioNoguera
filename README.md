@@ -119,10 +119,6 @@
   </div>
 
   
-
-  <h2>🛠️ <strong>Hitos Relevantes</strong></h2>
-
-  <hr>
  
 </body>
 </html>

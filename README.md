@@ -23,11 +23,7 @@
             >
           </td>
           <td>
-            <a href="https://git.io/streak-stats">
-              <img 
-                src="https://streak-stats.demolab.com?user=AntonioNoguera&theme=radical&hide_border=true" 
-                alt="GitHub Streak"
-              >
+            <a href="https://git.io/streak-stats"><img src="https://github-streak-gules.vercel.app?user=AntonioNoguera&theme=calm&hide_border=true&border_radius=12&locale=es" alt="GitHub Streak" /></a>
             </a>
           </td>
         </tr>

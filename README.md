@@ -3,10 +3,10 @@
 <body class="p-4">
 
   <h1>Michael Noguera (Mike)</h1>
-  <p><em>Técnico en Programación (2017 - 2020) Ingeniero de Software (2020 - 2025)</em></p>
+  <p><em>Técnico en Programación (2017 - 2020) / Ingeniero de Software (2020 - 2025)</em></p>
   <p style="display: flex; align-items: center;">
      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTywf51MRLfnOfAsgSAhAVGw_iLGGEBm-sGxA&s" alt="Imagen" style="height: 1em; width: auto; margin-right: 8px;">
-     <strong>Desarrollador Mobile</strong>
+     <strong>Desarrollador Mobile / WEB</strong>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTywf51MRLfnOfAsgSAhAVGw_iLGGEBm-sGxA&s" alt="Imagen" style="height: 1em; width: auto; margin-right: 8px;">
  </p>
 

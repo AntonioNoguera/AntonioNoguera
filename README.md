@@ -1,6 +1,6 @@
 <!DOCTYPE html>
  
-<body class="p-4">
+<body class="p-8">
 
   <h1>Michael Noguera (Mike)</h1>
   <p><em>Técnico en Programación (2017 - 2020) / Ingeniero de Software (2020 - 2025)</em></p>

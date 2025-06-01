@@ -29,14 +29,6 @@
       </table>
     </div>
   </div>
-
-  <hr>
-
-  <h2>🌐 <strong>Tecnologías en Exploración</strong></h2>
-  <p>
-    <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" alt=".NET">
-  </p> 
-      
   <hr>
 
   <h2>🖥️ <strong>Lenguajes de Programación</strong></h2>

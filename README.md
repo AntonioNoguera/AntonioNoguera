@@ -69,6 +69,8 @@
               <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" alt="Firebase">
             </td>
             <td>
+              
+              tailwind
               <img src="https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff" alt="Electron"><br>
               <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React"><br>
               <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" alt="Bootstrap">

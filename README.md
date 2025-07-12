@@ -79,32 +79,5 @@
       </table>
     </div>
   </div>
-
-  <hr>
-
-  <h2>🛠️ <strong>Herramientas y Entornos de Desarrollo</strong></h2>
-  <div class="text-center"> 
-    <div class="table-responsive">
-      <table class="table table-bordered">
-        <thead>
-          <tr>
-            <th>Eclipse</th>
-            <th>IntelliJ IDEA</th>
-            <th>NetBeans IDE</th>
-            <th>Visual Studio Code</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" alt="Eclipse"></td>
-            <td><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"></td>
-            <td><img src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white" alt="NetBeans IDE"></td>
-            <td><img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" alt="Visual Studio Code"></td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
- 
 </body>
 </html>

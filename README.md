@@ -11,24 +11,11 @@
 
   <h2>📊 <strong>Estadísticas de GitHub</strong></h2>
  
-  <div class="text-center">
-    <div class="table-responsive">
-      <table class="table table-borderless">
-        <tr>
-          <td>
-            <img 
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioNoguera&layout=compact&bg_color=00000000&theme=radical&card_width=500px&langs_count=8&locale=es&hide=CSS" 
-              alt="Top Langs"
-            >
-          </td>
-          <td>
-            <a href="https://git.io/streak-stats"><img src="https://github-streak-gules.vercel.app?user=AntonioNoguera&theme=calm&hide_border=true&border_radius=12&locale=es" alt="GitHub Streak" /></a>
-            </a>
-          </td>
-        </tr>
-      </table>
-    </div>
-  </div>
+  
+   <img 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioNoguera&layout=compact&bg_color=00000000&theme=radical&card_width=500px&langs_count=8&locale=es&hide=CSS" 
+     alt="Top Langs"
+   > 
   <hr>
 
   <h2>🖥️ <strong>Lenguajes de Programación</strong></h2>

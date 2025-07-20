@@ -3,19 +3,20 @@
 <body class="p-8">
 
   <h1>Michael Noguera (Mike)</h1>
-  <p><em>Técnico en Programación (2017 - 2020) / Ingeniero de Software (2020 - 2025)</em></p>
-  <p style="display: flex; align-items: center;"> 
-     <strong>Mobile Software Engineer - Web Dev</strong>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTywf51MRLfnOfAsgSAhAVGw_iLGGEBm-sGxA&s" alt="Imagen" style="height: 1em; width: auto; margin-right: 8px;">
+  <p><b>- Técnico en Programación (2017 - 2020)</b></p> 
+  <p><b>- Ingeniero de Software (2020 - 2025)</b></p>
+
+</br>
+  
+ <p style="display: flex; align-items: center;"> 
+     <h1>Mobile Software Engineer - Web Dev</h1>
  </p>
 
   <h2>📊 <strong>Estadísticas de GitHub</strong></h2>
- 
   
    <img 
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioNoguera&layout=compact&bg_color=00000000&theme=radical&card_width=500px&langs_count=8&locale=es&hide=CSS" 
-     alt="Top Langs">
-     
+     alt="Top Langs"> 
   <hr>
 
   <h2>🖥️ <strong>Lenguajes de Programación</strong></h2>

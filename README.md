@@ -34,38 +34,6 @@
   </p>
 
   <hr>
-
-  <h2>🌐 <strong>Desarrollo Web, Bases de Datos y Servicios en la Nube</strong></h2>
-  <div class="text-center"> 
-    <div class="table-responsive">
-      <table class="table table-hover">
-        <thead>
-          <tr>
-            <th>Bases de Datos</th>
-            <th>Servicios en la Nube</th>
-            <th>Desarrollo Web</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>
-              <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL"><br>
-              <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" alt="SQLite"><br>
-              <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" alt="Firebase">
-            </td>
-            <td>
-              <img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white" alt="Firebase">
-            </td>
-            <td>
-              <img src="https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff" alt="Electron"><br>
-              <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React"><br>
-             <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&&logoColor=fff" alt="Tailwind"></br>
-              <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" alt="Bootstrap">
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
+ 
 </body>
 </html>

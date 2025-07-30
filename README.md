@@ -1,39 +1,98 @@
-<!DOCTYPE html>
+# Michael Noguera (Mike para los amigos)
+
+## Mobile Software Engineer - Web Dev
+
+## 📊 **Estadísticas de GitHub**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioNoguera&layout=compact&bg_color=00000000&theme=radical&card_width=500px&langs_count=8&locale=es&hide=CSS)
  
-<body class="p-8">
 
-  <h1>Michael Noguera (Mike)</h1>
-  <p><b>- Técnico en Programación (2017 - 2020)</b></p> 
-  <p><b>- Ingeniero de Software (2020 - 2025)</b></p>
-
-</br>
-  
- <p style="display: flex; align-items: center;"> 
-     <h1>Mobile Software Engineer - Web Dev</h1>
- </p>
-
-  <h2>📊 <strong>Estadísticas de GitHub</strong></h2>
-  
-   <img 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioNoguera&layout=compact&bg_color=00000000&theme=radical&card_width=500px&langs_count=8&locale=es&hide=CSS" 
-     alt="Top Langs"> 
-  <hr>
-
-  <h2>🖥️ <strong>Lenguajes de Programación</strong></h2>
-  <p>    
-    <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" alt="Kotlin">
-    <img src="https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white" alt="Swift"> 
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript">
-    <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white" alt="Dart">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">  
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"> 
-    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML">
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white" alt="PHP">
-    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C"> 
-  </p>
-
-  <hr>
+## 🖥️ **Conocimiento Técnico**
  
-</body>
-</html>
+
+### ![Android Logo](https://img.icons8.com/color/18/000000/android-os.png) **Android**
+
+**Lenguajes:** 
+
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+
+**Frameworks y Librerías:**
+- XML Development
+- Jetpack Compose
+- Retrofit, GSON, Dagger Hilt, Koin
+
+**Patrones de Diseño:**
+- MVVM
+
+---
+
+### ![iOS Logo](https://img.icons8.com/ios-filled/18/FFFFFF/mac-os.png) **iOS**
+
+![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
+
+**Frameworks y Librerías:**
+- UIKit, SwiftUI
+- Firebase, Alamofire
+
+**Patrones de Diseño:**
+- MVVM
+- MVC
+- VIPER
+
+---
+
+<img src="./read_me_assets/multi.png" alt="KMP Logo" width="16"/> **Multiplataforma**
+
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
+
+**Tecnologías:**
+- Flutter
+- Kotlin Multiplatform
+
+**Patrones de Diseño:**
+- Provider
+- MVVM (con ViewModels compartidos)
+
+---
+
+### ![Web Logo](https://img.icons8.com/color/18/000000/source-code.png) **Web**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+
+**Tecnologías Web:**
+- HTML, CSS, Bootstrap, Tailwind
+- React, Next.js, Node.js
+
+**Patrones y Herramientas:**
+- Clean Architecture
+- API REST, GraphQL
+
+## Experiencia profesional
+
+
+<p>
+  <img src="./read_me_assets/viva_aerobus.png" alt="KMP Logo" style="width:25px; vertical-align:middle;"/>
+  <b>Viva Aerobus</b>
+  - Mobile Software Engineer
+</p>
+
+
+<p>
+  <img src="./read_me_assets/envia_flores.png" alt="KMP Logo" style="width:25px; vertical-align:middle;"/>
+  <b>EnvíaFlores</b>
+  - iOS Engineer
+</p>
+
+
+<p>
+  <img src="./read_me_assets/envia_flores.png" alt="KMP Logo" style="width:25px; vertical-align:middle;"/>
+  <b>EnvíaFlores</b>
+  - Android Developer
+</p>
+
+
+## Formación Académica
+
+- Ingeniería en Tecnología de Software - UANL
+- Técnico en Programación - CBTis 116

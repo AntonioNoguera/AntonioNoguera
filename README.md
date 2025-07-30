@@ -1,11 +1,6 @@
 # Michael Noguera (Mike para los amigos)
 
-## Mobile Software Engineer - Web Dev
-
-## 📊 **Estadísticas de GitHub**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioNoguera&layout=compact&bg_color=00000000&theme=radical&card_width=500px&langs_count=8&locale=es&hide=CSS)
- 
+## Mobile Software Engineer - Web Dev 
 
 ## 🖥️ **Conocimiento Técnico**
  

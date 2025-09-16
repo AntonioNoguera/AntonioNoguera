@@ -1,10 +1,9 @@
-# Michael Noguera (Mike para los amigos)
+# Michael Noguera
 
 ## Mobile Software Engineer - Web Dev 
 
 ## 🖥️ **Conocimiento Técnico**
  
-
 ### ![Android Logo](https://img.icons8.com/color/18/000000/android-os.png) **Android**
 
 **Lenguajes:** 
@@ -18,6 +17,7 @@
 
 **Patrones de Diseño:**
 - MVVM
+- MVC
 
 ---
 
@@ -65,7 +65,6 @@
 
 ## Experiencia profesional
 
-
 <p>
   <img src="./read_me_assets/viva_aerobus.png" alt="KMP Logo" style="width:25px; vertical-align:middle;"/>
   <b>Viva Aerobus</b>
@@ -76,7 +75,7 @@
 <p>
   <img src="./read_me_assets/envia_flores.png" alt="KMP Logo" style="width:25px; vertical-align:middle;"/>
   <b>EnvíaFlores</b>
-  - iOS Engineer
+  - Android & iOS Mobile Developer
 </p>
 
 

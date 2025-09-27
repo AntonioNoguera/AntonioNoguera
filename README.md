@@ -88,5 +88,5 @@
 
 ## Formación Académica
 
-- Ingeniería en Tecnología de Software - UANL
-- Técnico en Programación - CBTis 116
+- Ingeniería en Tecnología de Software - UANL - Mención Honorífica
+- Técnico en Programación - CBTis 116 - Líder de Generación

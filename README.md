@@ -1,6 +1,6 @@
 # Michael Noguera
 
-## Mobile Software Engineer - Web Dev 
+## Mobile Software Engineer
 
 ## 🖥️ **Conocimiento Técnico**
  

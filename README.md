@@ -33,6 +33,7 @@
 - MVVM
 - MVC
 - VIPER
+- Provider
 
 ---
 
@@ -68,7 +69,7 @@
 <p>
   <img src="./read_me_assets/viva_aerobus.png" alt="KMP Logo" style="width:25px; vertical-align:middle;"/>
   <b>Viva Aerobus</b>
-  - Mobile Software Engineer
+  - Mobile Software Engineer / Team Managment
 </p>
 
 

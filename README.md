@@ -1,93 +1,59 @@
 # Michael Noguera
+**Mobile Software Engineer**
 
-## Mobile Software Engineer
+---
 
-## 🖥️ **Conocimiento Técnico**
- 
-### ![Android Logo](https://img.icons8.com/color/18/000000/android-os.png) **Android**
+## Conocimiento Técnico
 
-**Lenguajes:** 
-
+### Android
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 
-**Frameworks y Librerías:**
-- XML Development
-- Jetpack Compose
-- Retrofit, GSON, Dagger Hilt, Koin
+**Frameworks:** XML Development, Jetpack Compose, Retrofit, GSON, Dagger Hilt, Koin
 
-**Patrones de Diseño:**
-- MVVM
-- MVC
+**Patrones:** MVVM, MVC
 
----
-
-### ![iOS Logo](https://img.icons8.com/ios-filled/18/FFFFFF/mac-os.png) **iOS**
-
+### iOS
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)
 
-**Frameworks y Librerías:**
-- UIKit, SwiftUI
-- Firebase, Alamofire
+**Frameworks:** UIKit, SwiftUI, Firebase, Alamofire
 
-**Patrones de Diseño:**
-- MVVM
-- MVC
-- VIPER
-- Provider
+**Patrones:** MVVM, MVC, VIPER, Provider
 
----
-
-<img src="./read_me_assets/multi.png" alt="KMP Logo" width="16"/> **Multiplataforma**
-
+### Multiplataforma
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
 
-**Tecnologías:**
-- Flutter
-- Kotlin Multiplatform
+**Tecnologías:** Flutter, Kotlin Multiplatform
 
-**Patrones de Diseño:**
-- Provider
-- MVVM (con ViewModels compartidos)
+**Patrones:** Provider, MVVM
+
+### Otros
+REST APIs, GraphQL
 
 ---
 
-### ![Web Logo](https://img.icons8.com/color/18/000000/source-code.png) **Web**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-
-**Tecnologías Web:**
-- HTML, CSS, Bootstrap, Tailwind
-- React, Next.js, Node.js
-
-**Patrones y Herramientas:**
-- Clean Architecture
-- API REST, GraphQL
-
-## Experiencia profesional
-
+## Experiencia Profesional
 <p>
   <img src="./read_me_assets/viva_aerobus.png" alt="KMP Logo" style="width:25px; vertical-align:middle;"/>
   <b>Viva Aerobus</b>
   - Mobile Software Engineer / Team Managment
 </p>
-
-
 <p>
   <img src="./read_me_assets/envia_flores.png" alt="KMP Logo" style="width:25px; vertical-align:middle;"/>
   <b>EnvíaFlores</b>
   - Android & iOS Mobile Developer
 </p>
-
-
 <p>
   <img src="./read_me_assets/envia_flores.png" alt="KMP Logo" style="width:25px; vertical-align:middle;"/>
   <b>EnvíaFlores</b>
   - Android Developer
 </p>
 
+---
 
 ## Formación Académica
 
-- Ingeniería en Tecnología de Software - UANL - Mención Honorífica
-- Técnico en Programación - CBTis 116 - Líder de Generación
+**Ingeniería en Tecnología de Software**  
+UANL — Mención Honorífica
+
+**Técnico en Programación**  
+CBTis 116 — Líder de Generación

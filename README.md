@@ -1,7 +1,6 @@
-# Michael Noguera
-**Mobile Software Engineer**
+# Michael Noguera *Mobile Software Engineer*
 
----
+El software debería ser para todos.
 
 ## Conocimiento Técnico
 
@@ -48,12 +47,6 @@ REST APIs, GraphQL
   - Android Developer
 </p>
 
----
-
 ## Formación Académica
-
-**Ingeniería en Tecnología de Software**  
-UANL — Mención Honorífica
-
-**Técnico en Programación**  
-CBTis 116 — Líder de Generación
+**Ingeniería en Tecnología de Software**  UANL — Mención Honorífica
+**Técnico en Programación**   CBTis 116 — Líder de Generación

@@ -48,5 +48,5 @@ REST APIs, GraphQL
 </p>
 
 ## Formación Académica
-**Ingeniería en Tecnología de Software**  UANL — Mención Honorífica
-**Técnico en Programación**   CBTis 116 — Líder de Generación
+- **Ingeniería en Tecnología de Software**  UANL — Mención Honorífica
+- **Técnico en Programación**   CBTis 116 — Líder de Generación

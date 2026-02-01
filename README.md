@@ -1,4 +1,4 @@
-# Michael Noguera *Mobile Software Engineer*
+# Michael Noguera - Mobile Software Engineer
 
 El software debería ser para todos.
 
